@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin: 0px;
+	padding: 10px 0px;
+}
+
+.Flex{
+    display: flex;
+}
+
+.Center{
+    justify-content: center;
+}
+
+.Text{
+    margin: 0px;
+    padding: 0px;
+    
+    margin-top: 25px;
+}
+
+.Link{
+    
+}
+
+.SpaceEven{
+    justify-content: space-between;
+	width:750px;
+}
+
+.Days{
+    background-color: rgba(227,227,227,1.00);
+    width: 14.29%;
+    height: 28.58%;
+}
+
+.Days:hover{
+	background-color: rgba(204,204,204,1.00);
+}
+
+.Wrapper{
+	width: 100vw;
+	height: auto;
+	text-align: center;
+}
+
+.Center{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.FontSize{
+	font-size: 25px;
+}
+
+.TimeSlot{
+	width:750px;
+	background-color: aliceblue;
+	display: inline-block;
+}
