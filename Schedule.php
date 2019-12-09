@@ -105,6 +105,7 @@
             <h3 id = 'Name'></h3>
             <h3 id = 'Subject'></h3>
             <h3 id = 'Time'></h3>
+            <h3 id='Length'></h3>
     </div>
 	
 </div>
