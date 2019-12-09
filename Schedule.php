@@ -99,9 +99,9 @@
     
     <div class="InfoForm Flex">
         <form>
-        1
             <input type='text' placeholder="Notes" required>
         </form>
+        
             <h3 id = 'Name'></h3>
             <h3 id = 'Subject'></h3>
             <h3 id = 'Time'></h3>
